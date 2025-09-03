@@ -1,0 +1,2 @@
+$ mkdir backend && cd backend
+mkdir: cannot create directory ‘backend’: File exists
