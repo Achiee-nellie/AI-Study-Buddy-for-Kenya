@@ -2,6 +2,10 @@
 
 A comprehensive Node.js/Express backend API for the ShuleCoach AI Study Buddy platform, designed specifically for Kenyan KCSE students.
 
+Pitch Deck Link:https://www.canva.com/design/DAGx09ZUyQc/nJljnMCeHorqzIWNptkFPg/edit?utm_content=DAGx09ZUyQc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Live Demo:https://mgx.dev/app/fba2aa1cb4af4e1492d8c9d3085c7fbc
+
 ## Features
 
 - **Authentication & Authorization**: JWT-based auth with refresh tokens
